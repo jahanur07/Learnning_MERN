@@ -1,0 +1,12 @@
+#my_div{
+ background-color: blueviolet;
+}
+#my_p{
+  background-color: aqua;
+}
+#my_heading{
+  background-color: brown;
+}
+#bg_image{
+  background-image: url(../images/img1.jpeg);
+}
